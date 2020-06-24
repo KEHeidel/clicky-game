@@ -1,0 +1,17 @@
+.card {
+  margin: 20px 40px 20px;
+  border: none !important;
+  background: none;
+  background-repeat: no-repeat;
+  float: left;
+}
+
+.card > .img-container {
+  height: 200px;
+  width: 200px;
+  margin-left: 100px;
+}
+.card > .img-container > img {
+  width: 100%;
+  height: 100%;
+}
